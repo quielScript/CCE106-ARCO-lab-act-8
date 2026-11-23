@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223953065767",
+    "project_id": "arco-student-app",
+    "storage_bucket": "arco-student-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223953065767:android:8744fbe9fb2c55351dbb02",
+        "android_client_info": {
+          "package_name": "com.example.intergrated_flutter_student_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FwPctYGnflEBqIXqEMKul_ctJIwl41w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
